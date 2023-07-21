@@ -1,6 +1,6 @@
 import java.io.*;
  
-class GFG {
+class knapSack8 {
  
     // A utility function that returns
     // maximum of two integers
