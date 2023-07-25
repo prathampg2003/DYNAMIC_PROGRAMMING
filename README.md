@@ -16,7 +16,7 @@ We are given N items where each item has some weight (wi) and value (vi) associa
 Note that here we can either put an item completely into the bag or cannot put it at all.
 
 #### -Bounded Knapsack
-Given N items, each item having a given weight wi and a value vi, the task is to maximize the value by selecting a maximum of K items adding up to a maximum weight W.
+Given N items, each item having a given weight w and a value vi, the task is to maximize the value by selecting a maximum of K items adding up to a maximum weight W.
 
 #### -Unbounded Knapsack Problem
 Given a knapsack weight W and a set of N items with certain value vi and weight wi, we need to calculate the maximum amount that could make up this quantity exactly. This is different from 0/1 Knapsack problem, here we are allowed to use an unlimited number of instances of an item.
